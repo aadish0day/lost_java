@@ -1,0 +1,15 @@
+s23 phone,electronics,Jai Hind College,24-05-2030,aadishdas7@gmail.com
+black wallet,accessories,Jai Hind College,15-08-2024,9876543210
+red backpack,bags,Jai Hind College,20-08-2024,student123@gmail.com
+hp laptop,electronics,Jai Hind College,12-08-2024,7894561230
+blue water bottle,misc,Jai Hind College,18-08-2024,rahul.sharma@yahoo.com
+car keys,keys,Jai Hind College,22-08-2024,9123456789
+math textbook,books,Jai Hind College,10-08-2024,priya.patel@hotmail.com
+gold earrings,jewelry,Jai Hind College,25-08-2024,8765432109
+nike shoes,footwear,Jai Hind College,14-08-2024,sneha.gupta@gmail.com
+umbrella,misc,Jai Hind College,19-08-2024,6543219876
+iphone charger,electronics,Jai Hind College,16-08-2024,amit.kumar@email.com
+library card,cards,Jai Hind College,11-08-2024,9998887776
+sunglasses,accessories,Jai Hind College,23-08-2024,divya.singh@gmail.com
+calculator,electronics,Jai Hind College,17-08-2024,8887776665
+pen drive,electronics,Jai Hind College,21-08-2024,rohan.das@college.edu
